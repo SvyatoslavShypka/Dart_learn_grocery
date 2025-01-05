@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
 
   List<String> groceries = ['Apples', 'Oranges', 'Bananas'];
 
-  List<double> prices = [1.03, 2.08, 1.73];
+  List<double> prices = [1.03, 5.08, 1.73];
 
   @override
   Widget build(BuildContext context) {
